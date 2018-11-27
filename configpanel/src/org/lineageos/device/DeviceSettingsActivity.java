@@ -15,7 +15,7 @@
 * along with this program. If not, see <http://www.gnu.org/licenses/>.
 *
 */
-package org.carbonrom.settings.device;
+package org.lineageos.settings.device;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -62,5 +62,5 @@ public class DeviceSettingsActivity extends Activity {
         }
         return super.onOptionsItemSelected(item);
     }
- 
+
 }
